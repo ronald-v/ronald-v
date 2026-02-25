@@ -1,4 +1,4 @@
-<h1 align="center">Ronald Velásquez 👨‍💻</h1>
+<h1 align="center">Ronald Velasquez 👨‍💻</h1>
 <p align="center">
   Full Stack Developer: Python, React, Angular, Next.js
 </p>
